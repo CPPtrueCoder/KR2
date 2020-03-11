@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andie/CLionProjects/KR/DormandPrinceIntegrator.h
+Object.h
+C:/Users/andie/CLionProjects/KR/Object.h
+
+C:/Users/andie/CLionProjects/KR/Object.h
+iostream
+-
+cmath
+-
+
+C:/Users/andie/CLionProjects/KR/arenstorf.cc
+arenstorf.h
+C:/Users/andie/CLionProjects/KR/arenstorf.h
+DormandPrinceIntegrator.h
+C:/Users/andie/CLionProjects/KR/DormandPrinceIntegrator.h
+iostream
+-
+time.h
+-
+
+C:/Users/andie/CLionProjects/KR/arenstorf.h
+Object.h
+C:/Users/andie/CLionProjects/KR/Object.h
+
